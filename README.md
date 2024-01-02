@@ -6,6 +6,11 @@
 
 <br/>  
 
+  - 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay
+  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 💬 Ask me about anything
+  - ⚡ Fun fact: I Like Turtles
+
 ## My OS
 
 <div align="center">
