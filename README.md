@@ -8,11 +8,13 @@
 
 ### About Me
 
-  - 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay.
   - 😄 Specializing in video game development, but I enjoy working on a variety of projects.
+  - 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay.
   - 🌱 I’m currently learning Machine Learning and Big Data.
+  - 🌐 Self-hosting several tools used at [Impossible Games](https://impossiblegames.fun).
   - 💬 Ask me about anything.
   - ⚡ Fun fact: I Like Turtles.
+
 
 ### Learning Journey 🎮
 
@@ -20,10 +22,25 @@
 - 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
 - 🚀 Excited to apply my skills to create immersive gaming experiences.
 
+###  Code Wizard at [Impossible Games](https://impossiblegames.fun)
+
+  
 ## My Recent Projects
 
+### [Car'd](#)
+- **Project Description:** Currently in development by [Impossible Games](https://impossiblegames.fun), Car'd is a card-based puzzle game featuring cars that move in grids.
+
+
+### [ComparApp](https://comparar-app-front.vercel.app/)
+- Working on a price comparator for local supermarkets.
+- **Frontend:** Vue.js
+- **Backend:** NestJS
+- **Scrapper:** Scrapy
+- **Database:** MongoDB
+- Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval).
+  
 ### [Ettios Game](https://game.ettios.io)
-- **Project Background:** Successfully reworked from scratch, leveraging resources from an old team. Completed in just 2 months.
+- **Project Background:** Successfully reworked from scratch by [Impossible Games](https://impossiblegames.fun), leveraging resources from an old team. Completed in just 2 months.
 - **Current Status:** Under a new team.
 - **Game Description:** A blockchain game featuring a holders leaderboard, developed using NestJS.
 - Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval) and [Sebastian Villamayor](https://gitlab.com/sebasxlr).
@@ -35,14 +52,6 @@
   - Player Customization.
   - TopDownEngine
 
-### [ComparApp](https://comparar-app-front.vercel.app/)
-- Working on a price comparator for local supermarkets.
-- **Frontend:** Vue.js
-- **Backend:** NestJS
-- **Scrapper:** Scrapy
-- **Database:** MongoDB
-- Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval).
-  
 ## My OS
 
 <div align="center">
