@@ -19,7 +19,6 @@
 - 🌱 I'm currently diving into the fascinating world of video game development.
 - 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
 - 🚀 Excited to apply my skills to create immersive gaming experiences.
-- 🎮 Recently developed [Ettios Game](https://game.ettios.io), showcasing my skills in creating interactive and captivating gaming experiences.
 
 ## My Recent Projects
 
