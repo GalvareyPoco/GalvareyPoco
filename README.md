@@ -6,11 +6,44 @@
 
 <br/>  
 
-  - 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about anything
-  - ⚡ Fun fact: I Like Turtles
+### About Me
 
+  - 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay.
+  - 😄 Specializing in video game development, but I enjoy working on a variety of projects.
+  - 🌱 I’m currently learning Machine Learning and Big Data.
+  - 💬 Ask me about anything.
+  - ⚡ Fun fact: I Like Turtles.
+
+### Learning Journey 🎮
+
+- 🌱 I'm currently diving into the fascinating world of video game development.
+- 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
+- 🚀 Excited to apply my skills to create immersive gaming experiences.
+- 🎮 Recently developed [Ettios Game](https://game.ettios.io), showcasing my skills in creating interactive and captivating gaming experiences.
+
+## My Recent Projects
+
+### [Ettios Game](https://game.ettios.io)
+- **Project Background:** Successfully reworked from scratch, leveraging resources from an old team. Completed in just 2 months.
+- **Current Status:** Under a new team.
+- **Game Description:** A blockchain game featuring a holders leaderboard, developed using NestJS.
+- Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval) and [Sebastian Villamayor](https://gitlab.com/sebasxlr).
+- **Technical Details:**
+  - ShaderGraph
+  - UIToolkit
+  - Custom Tools for nft integration
+  - Worldspace canvases in the main menu.
+  - Player Customization.
+  - TopDownEngine
+
+### [ComparApp](https://comparar-app-front.vercel.app/)
+- Working on a price comparator for local supermarkets.
+- **Frontend:** Vue.js
+- **Backend:** NestJS
+- **Scrapper:** Scrapy
+- **Database:** MongoDB
+- Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval).
+  
 ## My OS
 
 <div align="center">
