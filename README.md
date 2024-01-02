@@ -96,11 +96,11 @@
 
 <table><tr><td valign="middle" width="50%">
 
-<img src="https://github-readme-stats-phi-cyan-62.vercel.app/api?username=GalvareyPoco&show_icons=true&count_private=true&count_private=true&theme=dark&combine_remote_and_public=true&hide=stars" style="width: 100%" align="center"/>
+<img src="https://gitlab-readme-stats-tawny.vercel.app/api?username=galvareypoco&show_icons=true&theme=dark&count_private=true" style="width: 100%" align="center" />
 
 </td><td valign="middle" width="50%">
 
-<img src="https://gitlab-readme-stats-tawny.vercel.app/api?username=galvareypoco&show_icons=true&theme=dark&count_private=true" style="width: 100%" align="center" />
+<img src="https://github-readme-stats-phi-cyan-62.vercel.app/api?username=GalvareyPoco&show_icons=true&count_private=true&count_private=true&theme=dark&combine_remote_and_public=true&hide=stars" style="width: 100%" align="center"/>
 <br/>  
 </td></tr></table>  
 
