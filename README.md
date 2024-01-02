@@ -96,7 +96,7 @@
 
 <table><tr><td valign="middle" width="50%">
 
-<img src="https://gitlab-readme-stats-tawny.vercel.app/api?username=galvareypoco&show_icons=true&theme=dark&count_private=true" style="width: 100%" align="center" />
+<img src="https://gitlab-readme-stats-tawny.vercel.app/api?username=GalvareyPoco&show_icons=true&theme=dark&count_private=true" style="width: 100%" align="center" />
 
 </td><td valign="middle" width="50%">
 
