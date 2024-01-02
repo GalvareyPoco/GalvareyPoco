@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/61221866"  style="border-radius: 50%" align="center" height="200" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/61221866" align="center" height="200" width="200"/>
 </div>
 
 ### <div align="center">I'm Galvarey, a full-time full-stack freelance developer 👨‍💻 working remotely </div>
