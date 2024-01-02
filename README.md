@@ -123,6 +123,8 @@
 ```txt
 From: 03 April 2020 - To: 02 January 2024
 
+Total Time: 307 hrs 56 mins
+
 Python        93 hrs 7 mins   >>>>>>>>-----------------   30.24 %
 C#            81 hrs 44 mins  >>>>>>>------------------   26.54 %
 Dart          45 hrs 30 mins  >>>>---------------------   14.78 %
