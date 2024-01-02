@@ -121,11 +121,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 03 April 2020 - To: 02 January 2024
 
-Total Time: 0 secs
-
-No activity tracked
+Python        93 hrs 7 mins   >>>>>>>>-----------------   30.24 %
+C#            81 hrs 44 mins  >>>>>>>------------------   26.54 %
+Dart          45 hrs 30 mins  >>>>---------------------   14.78 %
+JavaScript    33 hrs 50 mins  >>>----------------------   10.99 %
+Other         13 hrs 25 mins  >------------------------   04.36 %
 ```
 
 <!--END_SECTION:waka-->
