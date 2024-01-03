@@ -8,13 +8,12 @@
 
 ### About Me
 
-  - 😄 Specializing in video game development, but I enjoy working on a variety of projects.
-  - 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay.
-  - 🌱 I’m currently learning Machine Learning and Big Data.
-  - 🌐 Self-hosting several tools used at [Impossible Games](https://impossiblegames.fun).
-  - 💬 Ask me about anything.
-  - ⚡ Fun fact: I Like Turtles.
-
+- 😄 Specializing in video game development, but I enjoy working on a variety of projects.
+- 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay.
+- 🌱 I’m currently learning Machine Learning and Big Data.
+- 🌐 Self-hosting several tools used at [Impossible Games](https://impossiblegames.fun).
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I Like Turtles.
 
 ### Learning Journey 🎮
 
@@ -22,16 +21,16 @@
 - 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
 - 🚀 Excited to apply my skills to create immersive gaming experiences.
 
-###  Code Wizard at [Impossible Games](https://impossiblegames.fun)
+### Code Wizard at [Impossible Games](https://impossiblegames.fun)
 
-  
 ## My Recent Projects
 
 ### [Car'd](#)
+
 - **Project Description:** Currently in development by [Impossible Games](https://impossiblegames.fun), Car'd is a card-based puzzle game featuring cars that move in grids.
 
-
 ### [ComparApp](https://comparar-app-front.vercel.app/)
+
 - Working on a price comparator for local supermarkets.
 - **Frontend:** Vue.js
 - **Backend:** NestJS
@@ -40,6 +39,7 @@
 - Collaboration with [Abel Franco](https://linkstack.impossiblegames.fun/@azafran).
   
 ### [Ettios Game](https://game.ettios.io)
+
 - **Project Background:** Successfully reworked from scratch by [Impossible Games](https://impossiblegames.fun), leveraging resources from an old team. Completed in just 2 months.
 - **Current Status:** Under a new team.
 - **Game Description:** A blockchain game featuring a holders leaderboard, developed using NestJS.
@@ -97,7 +97,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>
 </div>
@@ -109,7 +109,7 @@
 ## Languages
 
 <div align="center">
-    
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -139,8 +139,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkstack.impossiblegames.fun/@Galvarey" target="_blank">
-<img src=https://img.shields.io/badge/LinkStack-0F1226?style=for-the-badge
- alt=LinkStack style="margin-bottom: 5px;"/>
+<img src=https://img.shields.io/badge/LinkStack-0F1226?style=for-the-badge alt=LinkStack style="margin-bottom: 5px;"/>
 </a>
 
 </div>
@@ -168,19 +167,19 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 80.8 kB Used in GitHub's Storage 
- > 
+> 📦 80.8 kB Used in GitHub's Storage
+ >
 > 🏆 26 Contributions in the Year 2024
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 8 Public Repositories
+ >
+> 🔑 6 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
@@ -188,7 +187,8 @@
 🌃 Evening                55 commits          ███████░░░░░░░░░░░░░░░░░░   27.64 % 
 🌙 Night                  16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
@@ -200,8 +200,7 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Asuncion
@@ -216,7 +215,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
+**I Mostly Code in C#**
 
 ```text
 C#                       6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
@@ -226,8 +225,14 @@ HTML                     1 repo              ██░░░░░░░░░�
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
-
-
-
  Last Updated on 03/01/2024 00:26:52 UTC
 <!--END_SECTION:waka-->
+
+<div align="center">
+    <img src=https://komarev.com/ghpvc/?username=GalvareyPoco&&style=flat-square align="center"/>
+    <a href="https://www.buymeacoffee.com/galvareypo5" target="_blank" >
+        <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
+    </a>
+</div>
+
+</br>
