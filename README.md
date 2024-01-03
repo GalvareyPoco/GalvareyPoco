@@ -37,13 +37,13 @@
 - **Backend:** NestJS
 - **Scrapper:** Scrapy
 - **Database:** MongoDB
-- Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval).
+- Collaboration with [Abel Franco](https://linkstack.impossiblegames.fun/@azafran).
   
 ### [Ettios Game](https://game.ettios.io)
 - **Project Background:** Successfully reworked from scratch by [Impossible Games](https://impossiblegames.fun), leveraging resources from an old team. Completed in just 2 months.
 - **Current Status:** Under a new team.
 - **Game Description:** A blockchain game featuring a holders leaderboard, developed using NestJS.
-- Collaboration with [Abel Matias Github](https://gitlab.com/abelmatiasf), [Abel Matias Gitlab](https://github.com/afranval) and [Sebastian Villamayor](https://gitlab.com/sebasxlr).
+- Collaboration with [Abel Franco](https://linkstack.impossiblegames.fun/@azafran) and [Sebastian Villamayor](https://linkstack.impossiblegames.fun/@megasxlrsebas2).
 - **Technical Details:**
   - ShaderGraph
   - UIToolkit
@@ -137,6 +137,10 @@
 </a>
 <a href="https://twitter.com/GalvareyPoco" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkstack.impossiblegames.fun/@Galvarey" target="_blank">
+<img src=https://img.shields.io/badge/LinkStack-0F1226?style=for-the-badge
+ alt=LinkStack style="margin-bottom: 5px;"/>
 </a>
 
 </div>
