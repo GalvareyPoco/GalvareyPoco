@@ -21,7 +21,18 @@
 - 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
 - 🚀 Excited to apply my skills to create immersive gaming experiences.
 
-### Code Wizard at [Impossible Games](https://impossiblegames.fun)
+### Code Wizard at [Impossible Games](https://impossiblegames.fun) and [Vert.run](https://vert.run)
+
+## Currently Working
+
+### Frontend Developer, Vert.run
+
+- Working on frontend development tasks.
+- Collaborating with cross-functional teams to deliver high-quality software solutions.
+- Contributed to the design and implementation of user interfaces for web and mobile applications.
+- Employed technologies such as React, Redux and playwright to develop responsive and interactive user interfaces.
+- Actively participated in code reviews, testing, and debugging processes to ensure software quality and performance.
+- Engaged in continuous learning and professional development to stay updated with the latest frontend development trends and best practices.
 
 ## My Recent Projects
 
@@ -167,19 +178,19 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 80.8 kB Used in GitHub's Storage 
- > 
+> 📦 80.8 kB Used in GitHub's Storage
+ >
 > 🏆 29 Contributions in the Year 2024
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 8 Public Repositories
+ >
+> 🔑 6 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
@@ -187,7 +198,8 @@
 🌃 Evening                62 commits          ███████░░░░░░░░░░░░░░░░░░   26.72 % 
 🌙 Night                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
@@ -199,8 +211,7 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Asuncion
@@ -221,7 +232,7 @@ WSL                      29 hrs 29 mins      ███████████�
 Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 
-**I Mostly Code in C#** 
+**I Mostly Code in C#**
 
 ```text
 C#                       6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
@@ -230,9 +241,6 @@ ShaderLab                1 repo              ██░░░░░░░░░�
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
-
-
-
 
  Last Updated on 01/03/2024 00:29:37 UTC
 <!--END_SECTION:waka-->
