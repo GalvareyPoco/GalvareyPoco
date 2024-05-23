@@ -25,7 +25,7 @@
 
 ## Currently Working
 
-### Frontend Developer, Vert.run
+### Frontend Developer [Vert.run](https://vert.run)
 
 - Working on frontend development tasks.
 - Collaborating with cross-functional teams to deliver high-quality software solutions.
@@ -35,6 +35,26 @@
 - Engaged in continuous learning and professional development to stay updated with the latest frontend development trends and best practices.
 
 ## My Recent Projects
+
+
+### Undisclosed Loan Request Management System
+
+- **Project Description:** A comprehensive loan request management system with both mobile and web applications designed to streamline the loan request process. The mobile app allows select users to create loan requests on behalf of others, while the web application facilitates efficient review and management of these requests by analysts and administrators.
+- **Mobile App Features:**
+  - **User Access Control:** Only authorized users can create loan requests.
+  - **Loan Request Creation:** Facilitates creation of loan requests for others.
+  - **Blacklist Integration:** Automatically rejects requests from blacklisted individuals.
+  - **Chat Functionality:** Enables communication between analysts and request creators for approved requests.
+- **Web App Features:**
+  - **Request Review:** Analysts can review and process one pending request at a time.
+  - **Review Timer:** Tracks the time taken by analysts to review each request.
+  - **Administrative Tools:** Admins can create and manage user accounts, view performance metrics, and generate diagrams of pending, approved, and rejected requests.
+  - **Performance Analytics:** Provides insights into the performance of each analyst and seller.
+- **Technologies Used:**
+  - **Mobile App:** Developed with Expo and React Native for a seamless cross-platform experience.
+  - **Web App:** Built using React with Shadcn for a modern and responsive interface.
+  - **Backend:** Utilizes Supabase for server-side functions and real-time events to ensure data integrity and real-time updates across both platforms.
+
 
 ### [Car'd](#)
 
