@@ -36,13 +36,19 @@
 
 ## My Recent Projects
 
+### Tacumbu Finder [Tacumbu-Finder](https://tacumbu-finder.vercel.app)
+
+- **Project Description:** A web application that allows users to search or report scammers or spammers on the internet. it uses Supabase for reports made by the users in the application and a third-party API to fetch reports from [ListaHU](https://listahu.org).
+- **Technologies Used:**
+  - **Frontend:** React19, React-Query, Shadcn/ui, tailwindcss
+  - **Backend:**  Supabase
 
 ### Undisclosed Loan Request Management System
 
 - **Project Description:** A comprehensive loan request management system with both mobile and web applications designed to streamline the loan request process. The mobile app allows select users to create loan requests on behalf of others, while the web application facilitates efficient review and management of these requests by analysts and administrators.
 - **Mobile App Features:**
   - **User Access Control:** Only authorized users can create loan requests.
-  - **Loan Request Creation:** Facilitates creation of loan requests for others.
+  - **Loan Request Creation:** Facilitates the creation of loan requests for others.
   - **Blacklist Integration:** Automatically rejects requests from blacklisted individuals.
   - **Chat Functionality:** Enables communication between analysts and request creators for approved requests.
 - **Web App Features:**
@@ -54,7 +60,6 @@
   - **Mobile App:** Developed with Expo and React Native for a seamless cross-platform experience.
   - **Web App:** Built using React with Shadcn for a modern and responsive interface.
   - **Backend:** Utilizes Supabase for server-side functions and real-time events to ensure data integrity and real-time updates across both platforms.
-
 
 ### [Car'd](#)
 
