@@ -36,6 +36,13 @@
 
 ## My Recent Projects
 
+### Tacumbu Finder Native [Tacumbu-Finder Native](https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/)
+
+- **Project Description:** A Native version of [Tacumbu-Finder](https://tacumbu-finder.vercel.app). Fetches data from the same places and shows them in a mobile view, uses native components to allow sharing from the device
+- **Technologies Used:**
+  - **Frontend:** Expo / React Native, React-Query, Tamagui,  Zustand
+  - **Backend:**  Supabase
+
 ### Tacumbu Finder [Tacumbu-Finder](https://tacumbu-finder.vercel.app)
 
 - **Project Description:** A web application that allows users to search or report scammers or spammers on the internet. it uses Supabase for reports made by the users in the application and a third-party API to fetch reports from [ListaHU](https://listahu.org).
@@ -203,19 +210,19 @@
 <br/>  
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 84.0 kB Used in GitHub's Storage 
- > 
+> 📦 84.0 kB Used in GitHub's Storage
+ >
 > 🏆 157 Contributions in the Year 2024
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 9 Public Repositories
+ >
+> 🔑 9 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
 🌞 Morning                63 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
@@ -223,7 +230,8 @@
 🌃 Evening                81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 🌙 Night                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
@@ -235,8 +243,7 @@ Saturday                 44 commits          ███░░░░░░░░�
 Sunday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Asuncion
@@ -256,7 +263,7 @@ WSL                      43 hrs 11 mins      ███████████�
 Windows                  32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
-**I Mostly Code in C#** 
+**I Mostly Code in C#**
 
 ```text
 C#                       8 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
@@ -265,9 +272,6 @@ TypeScript               3 repos             ████░░░░░░░�
 ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
-
-
-
 
  Last Updated on 27/09/2024 00:35:28 UTC
 <!--END_SECTION:waka-->
