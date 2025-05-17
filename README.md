@@ -25,16 +25,24 @@
 
 ## Currently Working
 
-### Frontend Developer [Vert.run](https://vert.run)
+### Full-Stack Developer [Itti](https://www.itti.digital)
 
-- Working on frontend development tasks.
 - Collaborating with cross-functional teams to deliver high-quality software solutions.
 - Contributed to the design and implementation of user interfaces for web and mobile applications.
-- Employed technologies such as React, Redux and playwright to develop responsive and interactive user interfaces.
+- Employed technologies such as React, React-native, Redux and playwright to develop responsive and interactive user interfaces.
 - Actively participated in code reviews, testing, and debugging processes to ensure software quality and performance.
 - Engaged in continuous learning and professional development to stay updated with the latest frontend development trends and best practices.
 
 ## My Recent Projects
+
+### [Rebuscate](https://rebuscate.com/) (web/native)
+
+- Working on a price comparator for local supermarkets.
+- **Frontend:** Next.js / React native 
+- **Backend:** Node - Python
+- **Scrapper:** Scrapy
+- **Database:** Postgres
+- Collaboration with [Abel Franco](https://afranval.github.io).
 
 ### Tacumbu Finder Native [Tacumbu-Finder Native](https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/)
 
@@ -71,15 +79,6 @@
 ### [Car'd](#)
 
 - **Project Description:** Currently in development by [Impossible Games](https://impossiblegames.fun), Car'd is a card-based puzzle game featuring cars that move in grids.
-
-### [Rebuscate](https://rebuscate.com/)
-
-- Working on a price comparator for local supermarkets.
-- **Frontend:** Next.js / React native 
-- **Backend:** Node - Python
-- **Scrapper:** Scrapy
-- **Database:** Postgres
-- Collaboration with [Abel Franco](https://afranval.github.io).
   
 ### [Ettios Game](https://game.ettios.io)
 
