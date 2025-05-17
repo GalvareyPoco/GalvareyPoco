@@ -21,11 +21,11 @@
 - 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
 - 🚀 Excited to apply my skills to create immersive gaming experiences.
 
-### Code Wizard at [Impossible Games](https://impossiblegames.fun) and [Itti](https://www.itti.digital)
+### Code Wizard at [Impossible Games](https://impossiblegames.fun) and [ITTI](https://www.itti.digital)
 
 ## Currently Working
 
-### Full-Stack Developer [Itti](https://www.itti.digital)
+### Full-Stack Developer [ITTI](https://www.itti.digital)
 
 - Collaborating with cross-functional teams to deliver high-quality software solutions.
 - Contributed to the design and implementation of user interfaces for web and mobile applications.
