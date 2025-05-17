@@ -72,21 +72,21 @@
 
 - **Project Description:** Currently in development by [Impossible Games](https://impossiblegames.fun), Car'd is a card-based puzzle game featuring cars that move in grids.
 
-### [ComparApp](https://comparar-app-front.vercel.app/)
+### [Rebuscate](https://rebuscate.com/)
 
 - Working on a price comparator for local supermarkets.
-- **Frontend:** Vue.js
-- **Backend:** NestJS
+- **Frontend:** Next.js / React native 
+- **Backend:** Node - Python
 - **Scrapper:** Scrapy
-- **Database:** MongoDB
-- Collaboration with [Abel Franco](https://linkstack.impossiblegames.fun/@azafran).
+- **Database:** Postgres
+- Collaboration with [Abel Franco](https://afranval.github.io).
   
 ### [Ettios Game](https://game.ettios.io)
 
 - **Project Background:** Successfully reworked from scratch by [Impossible Games](https://impossiblegames.fun), leveraging resources from an old team. Completed in just 2 months.
 - **Current Status:** Under a new team.
 - **Game Description:** A blockchain game featuring a holders leaderboard, developed using NestJS.
-- Collaboration with [Abel Franco](https://linkstack.impossiblegames.fun/@azafran) and [Sebastian Villamayor](https://linkstack.impossiblegames.fun/@megasxlrsebas2).
+- Collaboration with [Abel Franco](https://afranval.github.io) and [Sebastian Villamayor](https://linkstack.impossiblegames.fun/@megasxlrsebas2).
 - **Technical Details:**
   - ShaderGraph
   - UIToolkit
