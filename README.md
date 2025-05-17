@@ -21,7 +21,7 @@
 - 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
 - 🚀 Excited to apply my skills to create immersive gaming experiences.
 
-### Code Wizard at [Impossible Games](https://impossiblegames.fun) and [Vert.run](https://vert.run)
+### Code Wizard at [Impossible Games](https://impossiblegames.fun) and [Itti](https://www.itti.digital)
 
 ## Currently Working
 
