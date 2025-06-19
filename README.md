@@ -213,8 +213,6 @@
 
 > 📦 488.3 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -248,17 +246,13 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-TypeScript               15 mins             ████████████████████░░░░░   78.38 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -274,7 +268,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 00:45:16 UTC
+ Last Updated on 19/06/2025 00:45:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
