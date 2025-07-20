@@ -213,6 +213,8 @@
 
 > 📦 501.0 kB Used in GitHub's Storage 
  > 
+> 🏆 82 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -246,16 +248,13 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-Go                       4 hrs 29 mins       ██████████████████████░░░   87.50 % 
-TypeScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      5 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -271,7 +270,7 @@ PLpgSQL                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2025 00:47:10 UTC
+ Last Updated on 20/07/2025 00:54:24 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
