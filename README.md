@@ -8,91 +8,94 @@
 
 ### About Me
 
-- 😄 Specializing in video game development, but I enjoy working on a variety of projects.
-- 🔭 I’m currently working as a Software Developer in Asuncion, Paraguay.
-- 🌱 I’m currently learning Machine Learning and Big Data.
-- 🌐 Self-hosting several tools used at [Impossible Games](https://impossiblegames.fun).
-- 💬 Ask me about anything.
-- ⚡ Fun fact: I Like Turtles.
+- 😄 Specializing in React Native, EMV, and video game development, but I enjoy working on a wide variety of projects.
+- 🔭 Currently working as a Software Developer in Asunción, Paraguay.
+- 🌱 Learning Machine Learning and Big Data to expand my skill set.
+- 🌐 Self-hosting several tools for [Impossible Games](https://impossiblegames.fun) and [Rebuscate](https://rebuscate.com).
+- 💬 Always open to questions — feel free to ask me anything.
+- ⚡ Fun fact: I like turtles. 🐢
 
 ### Learning Journey 🎮
 
-- 🌱 I'm currently diving into the fascinating world of video game development.
-- 🎯 Exploring game design principles, graphics programming, and interactive gameplay mechanics.
-- 🚀 Excited to apply my skills to create immersive gaming experiences.
+- 🌱 Currently exploring the fascinating world of payment processing and video game development.
+- 🎯 Studying game design principles, graphics programming, and interactive gameplay mechanics.
+- 🚀 Excited to create immersive gaming experiences that blend creativity and technology.
 
-### Code Wizard at [Impossible Games](https://impossiblegames.fun) and [ITTI](https://www.itti.digital)
+### Code Wizard at [Impossible Games](https://impossiblegames.fun), [Rebuscate](https://rebuscate.com), [Happy Living](https://happyliving.lat) and [ITTI](https://www.itti.digital)
 
 ## Currently Working
 
 ### Full-Stack Developer [ITTI](https://www.itti.digital)
 
 - Collaborating with cross-functional teams to deliver high-quality software solutions.
-- Contributed to the design and implementation of user interfaces for web and mobile applications.
-- Employed technologies such as React, React-native, Redux and playwright to develop responsive and interactive user interfaces.
-- Actively participated in code reviews, testing, and debugging processes to ensure software quality and performance.
-- Engaged in continuous learning and professional development to stay updated with the latest frontend development trends and best practices.
+- Developing multiple applications for different brands of POS devices.
+- Performing security and performance tests to identify and fix issues.
 
 ## My Recent Projects
 
 ### [Rebuscate](https://rebuscate.com/) (web/native)
 
-- Working on a price comparator for local supermarkets.
-- **Frontend:** Next.js / React native 
-- **Backend:** Node - Python
-- **Scrapper:** Scrapy
-- **Database:** Postgres
-- Collaboration with [Abel Franco](https://afranval.github.io).
+- Built a price comparison platform for local supermarkets, pharmacies, and other stores.
+- Developed a product relation algorithm to improve search accuracy.
+- Created the mobile app in React Native and the website in Next.js.
+- mplemented the entire backend in PostgreSQL with edge functions.
+- Added observability with PostHog.
+- Built a scraper using Python and Go.
+- Collaborating with [Abel Franco](https://afranval.github.io).
+
+### [Happyliving](https://happyliving.lat)
+
+- Developing a React Native mobile app with new features for building management.
+- Migrated the backend from .NET to Go for better performance.
+- Integrated an AI chatbot for reservations and user acquisition.
+- Deployed all services on a VPS using Docker and Traefik.
+- Set up CI/CD pipelines for automated deployments.
+
+### [Vert.run](https://vert.run)
+
+- Migrated the entire mobile platform to React Native.
+- Refactored the website to reduce technical debt.
+- Implemented backend services and AI features using AWS (DynamoDB, Cognito, Lambda, Bedrock).
+- Participated in code reviews, testing, and debugging to ensure quality.
+- Set up CI/CD pipelines for automated deployments.
 
 ### Tacumbu Finder Native [Tacumbu-Finder Native](https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/)
 
-- **Project Description:** A Native version of [Tacumbu-Finder](https://tacumbu-finder.vercel.app). Fetches data from the same places and shows them in a mobile view, uses native components to allow sharing from the device
-- **Technologies Used:**
-  - **Frontend:** Expo / React Native, React-Query, Tamagui,  Zustand
-  - **Backend:**  Supabase
+- Native version of [Tacumbu-Finder](https://tacumbu-finder.vercel.app).
+- Fetches and displays scammer/spammer reports in a mobile-friendly interface.
+- Uses native components for device sharing.
+- Tech Stack: Expo / React Native, React Query, Tamagui, Zustand, Supabase.
 
 ### Tacumbu Finder [Tacumbu-Finder](https://tacumbu-finder.vercel.app)
 
-- **Project Description:** A web application that allows users to search or report scammers or spammers on the internet. it uses Supabase for reports made by the users in the application and a third-party API to fetch reports from [ListaHU](https://listahu.org).
-- **Technologies Used:**
-  - **Frontend:** React19, React-Query, Shadcn/ui, tailwindcss
-  - **Backend:**  Supabase
+- Web app to search or report scammers/spammers online.
+- Uses Supabase for user reports and integrates with [ListaHU](https://listahu.org) API.
+- Tech Stack: React 19, React Query, Shadcn/UI, Tailwind CSS, Supabase.
+  
+### Loan Request Management System (Undisclosed)
 
-### Undisclosed Loan Request Management System
-
-- **Project Description:** A comprehensive loan request management system with both mobile and web applications designed to streamline the loan request process. The mobile app allows select users to create loan requests on behalf of others, while the web application facilitates efficient review and management of these requests by analysts and administrators.
-- **Mobile App Features:**
-  - **User Access Control:** Only authorized users can create loan requests.
-  - **Loan Request Creation:** Facilitates the creation of loan requests for others.
-  - **Blacklist Integration:** Automatically rejects requests from blacklisted individuals.
-  - **Chat Functionality:** Enables communication between analysts and request creators for approved requests.
-- **Web App Features:**
-  - **Request Review:** Analysts can review and process one pending request at a time.
-  - **Review Timer:** Tracks the time taken by analysts to review each request.
-  - **Administrative Tools:** Admins can create and manage user accounts, view performance metrics, and generate diagrams of pending, approved, and rejected requests.
-  - **Performance Analytics:** Provides insights into the performance of each analyst and seller.
-- **Technologies Used:**
-  - **Mobile App:** Developed with Expo and React Native for a seamless cross-platform experience.
-  - **Web App:** Built using React with Shadcn for a modern and responsive interface.
-  - **Backend:** Utilizes Supabase for server-side functions and real-time events to ensure data integrity and real-time updates across both platforms.
+- Mobile & web platform to streamline loan requests.
+- Mobile App:
+	- Role-based access for request creation.
+	- Blacklist integration for automatic rejection.
+	- In-app chat between analysts and request creators.
+- Web App:
+	- Review queue with one request at a time.
+	- Review timer for performance tracking.
+	- Admin tools for user management and analytics.
+- Tech Stack: Expo / React Native, React + Shadcn, Supabase (real-time events).
 
 ### [Car'd](#)
 
-- **Project Description:** Currently in development by [Impossible Games](https://impossiblegames.fun), Car'd is a card-based puzzle game featuring cars that move in grids.
+-- Card-based puzzle game with cars moving on grids.
+- Development by [Impossible Games](https://impossiblegames.fun).
   
 ### [Ettios Game](https://game.ettios.io)
 
-- **Project Background:** Successfully reworked from scratch by [Impossible Games](https://impossiblegames.fun), leveraging resources from an old team. Completed in just 2 months.
-- **Current Status:** Under a new team.
-- **Game Description:** A blockchain game featuring a holders leaderboard, developed using NestJS.
-- Collaboration with [Abel Franco](https://afranval.github.io) and [Sebastian Villamayor](https://linkstack.impossiblegames.fun/@megasxlrsebas2).
-- **Technical Details:**
-  - ShaderGraph
-  - UIToolkit
-  - Custom Tools for nft integration
-  - Worldspace canvases in the main menu.
-  - Player Customization.
-  - TopDownEngine
+- Rebuilt from scratch in just 2 months.
+- Blockchain game with a holders leaderboard.
+- Tech Stack: NestJS, ShaderGraph, UIToolkit, NFT integration tools, world-space canvases, player customization, TopDownEngine.
+- Collaborated with [Abel Franco](https://afranval.github.io) and [Sebastian Villamayor](https://linkstack.impossiblegames.fun/@megasxlrsebas2).
 
 ## My OS
 
