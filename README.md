@@ -183,9 +183,6 @@
 <a href="https://twitter.com/GalvareyPoco" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkstack.impossiblegames.fun/@Galvarey" target="_blank">
-<img src=https://img.shields.io/badge/LinkStack-0F1226?style=for-the-badge alt=LinkStack style="margin-bottom: 5px;"/>
-</a>
 
 </div>
 
