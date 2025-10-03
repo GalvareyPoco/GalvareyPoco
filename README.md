@@ -211,35 +211,6 @@
 
 <br/>  
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 510.7 kB Used in GitHub's Storage 
- > 
-> 🏆 178 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I Mostly Code in C#** 
-
-```text
-C#                       9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-
- Last Updated on 03/10/2025 00:38:14 UTC
-<!--END_SECTION:waka-->
-
 <div align="center">
     <img src=https://komarev.com/ghpvc/?username=GalvareyPoco&&style=flat-square align="center"/>
     <a href="https://www.buymeacoffee.com/galvareypo5" target="_blank" >
