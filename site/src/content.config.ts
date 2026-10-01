@@ -17,7 +17,7 @@ const projects = defineCollection({
     stack: z.array(z.string()).default([]),
     url: z.string().optional(),
     links: z.array(link).default([]),
-    collaborators: z.array(link).default([]),
+    collaborators: z.array(z.object({ label: z.string(), url: z.string().optional() })).default([]),
     featured: z.boolean().default(false),
   }),
 });

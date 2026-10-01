@@ -95,7 +95,7 @@
 - Rebuilt from scratch in just 2 months.
 - Blockchain game with a holders leaderboard.
 - Tech Stack: NestJS, ShaderGraph, UIToolkit, NFT integration tools, world-space canvases, player customization, TopDownEngine.
-- Collaborated with [Abel Franco](https://afranval.github.io) and [Sebastian Villamayor](https://linkstack.impossiblegames.fun/@megasxlrsebas2).
+- Collaborated with [Abel Franco](https://afranval.github.io) and Sebastian Villamayor.
 
 ## My OS
 

@@ -9,7 +9,7 @@ export type ProjectCard = {
   stack: string[];
   url?: string;
   links: { label: string; url: string }[];
-  collaborators: { label: string; url: string }[];
+  collaborators: { label: string; url?: string }[];
   featured: boolean;
   highlights: string[];
 };
@@ -116,10 +116,14 @@ export default function ProjectGrid({ projects }: { projects: ProjectCard[] }) {
                   <span className="text-slate-500">
                     with{" "}
                     {p.collaborators.map((c, i) => (
-                      <span key={c.url}>
-                        <a href={c.url} target="_blank" rel="noopener" className="text-slate-400 hover:text-white">
-                          {c.label}
-                        </a>
+                      <span key={c.label}>
+                        {c.url ? (
+                          <a href={c.url} target="_blank" rel="noopener" className="text-slate-400 hover:text-white">
+                            {c.label}
+                          </a>
+                        ) : (
+                          <span className="text-slate-400">{c.label}</span>
+                        )}
                         {i < p.collaborators.length - 1 ? ", " : ""}
                       </span>
                     ))}

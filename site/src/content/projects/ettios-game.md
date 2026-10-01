@@ -8,7 +8,7 @@ platforms: [Web]
 stack: [Unity, NestJS, ShaderGraph, UIToolkit, TopDownEngine, NFT integration]
 collaborators:
   - { label: Abel Franco, url: "https://afranval.github.io" }
-  - { label: Sebastian Villamayor, url: "https://linkstack.impossiblegames.fun/@megasxlrsebas2" }
+  - { label: Sebastian Villamayor }
 ---
 - Rebuilt the whole game from scratch in just two months.
 - NestJS backend with NFT integration and a holders leaderboard.
