@@ -38,7 +38,7 @@
 - Built a price comparison platform for local supermarkets, pharmacies, and other stores.
 - Developed a product relation algorithm to improve search accuracy.
 - Created the mobile app in React Native and the website in Next.js.
-- mplemented the entire backend in PostgreSQL with edge functions.
+- Implemented the entire backend in PostgreSQL with edge functions.
 - Added observability with PostHog.
 - Built a scraper using Python and Go.
 - Collaborating with [Abel Franco](https://afranval.github.io).
