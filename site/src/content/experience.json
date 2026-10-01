@@ -24,8 +24,9 @@
     "current": true,
     "highlights": [
       "Leading the React Native app for building management.",
-      "Migrated the backend from .NET to Go and integrated an AI chatbot for reservations.",
-      "Run all services on a VPS with Docker, Traefik and CI/CD."
+      "Migrated the backend from .NET to Go microservices and integrated an AI chatbot for reservations.",
+      "Run the whole platform on our own VPS: Docker, Traefik, domains, S3-compatible storage, backups and CI/CD.",
+      "Set up Novu, Resend and Expo push notifications, with PostHog for product analytics."
     ]
   },
   {
@@ -51,7 +52,9 @@
     "current": true,
     "highlights": [
       "Built a price comparison platform for supermarkets and pharmacies: React Native app, Next.js site, PostgreSQL backend.",
-      "Designed the product-matching algorithm and the Python/Go scrapers that feed it."
+      "Designed the product-matching algorithm and the Python/Go scrapers and crawlers that feed it.",
+      "Built AI search on a self-hosted Qdrant database with our own embedding service, covering image, text and combined queries.",
+      "Self-host everything on our own VPS, from domains and routing to storage and backups."
     ]
   },
   {

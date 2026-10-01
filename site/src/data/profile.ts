@@ -20,7 +20,7 @@ export const profile = {
     { value: "3", label: "languages: ES · EN · FR" },
   ],
   languages: ["Spanish (native)", "English (professional)", "French (professional)"],
-  focus: ["React Native", "EMV / POS", "Game dev", "Go & Node backends", "DevOps & self-hosting", "Pentesting", "CAD & 3D printing"],
+  focus: ["React Native", "EMV / POS", "Game dev", "Go & Node backends", "Self-hosted infrastructure", "AI search & embeddings", "Pentesting", "CAD & 3D printing"],
   learning: ["Machine Learning", "Big Data", "Payment processing", "Game design & graphics programming"],
   ventures: [
     { label: "ITTI", url: "https://www.itti.digital" },
