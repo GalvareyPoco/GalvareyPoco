@@ -8,9 +8,10 @@
     "start": "Mar 2025",
     "current": true,
     "highlights": [
-      "Developing multiple applications for different brands of POS devices.",
-      "Performing security and performance tests to identify and fix issues.",
-      "Collaborating with cross-functional teams to deliver high-quality software."
+      "Built payment terminal software for a new POS product, from early prototyping through production rollout.",
+      "Developed native device integrations and the EMV payment flow.",
+      "Implemented secure terminal configuration and device-to-backend communication.",
+      "Built the POS frontend, and ran security and performance tests to find and fix issues."
     ]
   },
   {
