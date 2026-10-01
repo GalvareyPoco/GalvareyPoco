@@ -6,12 +6,13 @@ const SCRIPT: Step[] = [
   { cmd: "whoami", out: ["galvarey · full-stack developer · asunción, py"] },
   {
     cmd: "cat focus.txt",
-    out: ["react-native  emv/pos  game-dev", "go  node  postgres  docker"],
+    out: ["react-native  emv/pos  unity/godot", "go  node  postgres  docker"],
   },
   {
     cmd: "ls ~/projects",
     out: ["rebuscate/  happy-living/  vert-run/", "tacumbu-finder/  ettios-game/  card/"],
   },
+  { cmd: "ls ~/workshop", out: ["bambu-a1/  ender-5-plus/  halot-one/", "fusion360/  blender/  electronics/"] },
   { cmd: "echo $FUN_FACT", out: ["i like turtles 🐢"] },
 ];
 
@@ -66,7 +67,7 @@ export default function Terminal() {
           <span className="h-3 w-3 rounded-full bg-green-400/80" />
           <span className="ml-3 font-mono text-xs text-slate-500">galvarey@dev: ~</span>
         </div>
-        <div className="h-[320px] p-5 font-mono text-[13px] leading-relaxed sm:text-sm" aria-label="Animated terminal introduction" role="img">
+        <div className="h-[380px] p-5 font-mono text-[13px] leading-relaxed sm:text-sm" aria-label="Animated terminal introduction" role="img">
           {lines.map((l, i) =>
             l.kind === "cmd" ? (
               <p key={i} className="text-white">
