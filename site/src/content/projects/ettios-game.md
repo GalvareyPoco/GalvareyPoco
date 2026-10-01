@@ -6,7 +6,6 @@ category: Game
 featured: true
 platforms: [Web]
 stack: [Unity, NestJS, ShaderGraph, UIToolkit, TopDownEngine, NFT integration]
-url: https://game.ettios.io
 collaborators:
   - { label: Abel Franco, url: "https://afranval.github.io" }
   - { label: Sebastian Villamayor, url: "https://linkstack.impossiblegames.fun/@megasxlrsebas2" }
