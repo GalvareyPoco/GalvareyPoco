@@ -61,12 +61,12 @@
 
 ### Tacumbu Finder Native [Tacumbu-Finder Native](https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/)
 
-- Native version of [Tacumbu-Finder](https://tacumbu-finder.vercel.app).
+- Native version of Tacumbu-Finder.
 - Fetches and displays scammer/spammer reports in a mobile-friendly interface.
 - Uses native components for device sharing.
 - Tech Stack: Expo / React Native, React Query, Tamagui, Zustand, Supabase.
 
-### Tacumbu Finder [Tacumbu-Finder](https://tacumbu-finder.vercel.app)
+### Tacumbu Finder
 
 - Web app to search or report scammers/spammers online.
 - Uses Supabase for user reports and integrates with [ListaHU](https://listahu.org) API.
@@ -90,7 +90,7 @@
 -- Card-based puzzle game with cars moving on grids.
 - Development by [Impossible Games](https://impossiblegames.fun).
   
-### [Ettios Game](https://game.ettios.io)
+### Ettios Game
 
 - Rebuilt from scratch in just 2 months.
 - Blockchain game with a holders leaderboard.

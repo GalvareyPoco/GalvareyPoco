@@ -5,7 +5,6 @@ order: 5
 category: Open source
 platforms: [Web, iOS, Android]
 stack: [React 19, React Query, Shadcn/UI, Tailwind CSS, Supabase, Expo, Tamagui, Zustand]
-url: https://tacumbu-finder.vercel.app
 links:
   - { label: Native app demo, url: "https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/" }
 ---
