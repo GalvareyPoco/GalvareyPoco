@@ -1,43 +1,23 @@
-name: Portfolio site
+# The portfolio now lives in GalvareyPoco/galvareypoco.github.io and is served at
+# https://galvareypoco.github.io/. This keeps the old /GalvareyPoco/ address
+# redirecting there.
+name: Redirect old site URL
 
 on:
   push:
     branches: [main]
-    paths: ["site/**", ".github/workflows/deploy-site.yml"]
-  pull_request:
-    paths: ["site/**", ".github/workflows/deploy-site.yml"]
+    paths: ["pages-redirect/**", ".github/workflows/deploy-site.yml"]
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: pages-${{ github.ref }}
+  group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: site
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-          cache-dependency-path: site/package-lock.json
-      - run: npm ci
-      - run: npm run build
-      - uses: actions/upload-pages-artifact@v3
-        if: github.event_name != 'pull_request'
-        with:
-          path: site/dist
-
   deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
-    needs: build
     runs-on: ubuntu-latest
     permissions:
       pages: write
@@ -46,5 +26,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: pages-redirect
       - id: deployment
         uses: actions/deploy-pages@v4
