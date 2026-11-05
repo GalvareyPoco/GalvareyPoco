@@ -2,16 +2,24 @@
 <img src="https://avatars.githubusercontent.com/u/61221866" align="center" height="200" width="200"/>
 </div>
 
-### <div align="center">I'm Galvarey, a full-time full-stack freelance developer 👨‍💻 working remotely </div>
+### <div align="center">I'm Galvarey, a full-stack developer 👨‍💻 working remotely from Asunción, Paraguay</div>
+
+<div align="center">
+<a href="https://galvarey.is-a.dev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+at+ITTI;CTO+at+Happy+Living;Co-founder+%26+CTO+of+Rebuscate;Game+Developer+at+Impossible+Games;Maker+%26+tinkerer" alt="Typing roles" /></a>
+
+🌐 **Portfolio: [galvarey.is-a.dev](https://galvarey.is-a.dev)**
+</div>
 
 <br/>  
 
 ### About Me
 
-- 😄 Specializing in React Native, EMV, and video game development, but I enjoy working on a wide variety of projects.
-- 🔭 Currently working as a Software Developer in Asunción, Paraguay.
-- 🌱 Learning Machine Learning and Big Data to expand my skill set.
-- 🌐 Self-hosting several tools for [Impossible Games](https://impossiblegames.fun) and [Rebuscate](https://rebuscate.com).
+- 😄 Specializing in React Native, POS devices and EMV payments, and video game development. I enjoy taking products from a blank repo all the way to production.
+- 🔭 Building POS applications at [ITTI](https://www.itti.digital), CTO of [Happy Living](https://happyliving.lat), co-founder and CTO of [Rebuscate](https://rebuscate.com), and making games with [Impossible Games](https://impossiblegames.fun).
+- 🤖 Orchestrating AI workflows and running our own embedding service for image and text search.
+- 🌐 Self-hosting the infrastructure behind all of them: Docker, Traefik, DNS, storage, backups and CI/CD.
+- 🌱 Learning machine learning, big data, payment processing and game design.
+- 🛠️ Away from the keyboard: electronics, CAD in Fusion 360 and Blender, 3D printing and pentesting.
 - 💬 Always open to questions — feel free to ask me anything.
 - ⚡ Fun fact: I like turtles. 🐢
 
@@ -25,41 +33,43 @@
 
 ## Currently Working
 
-### Full-Stack Developer [ITTI](https://www.itti.digital)
+### Full-Stack Developer at [ITTI](https://www.itti.digital) (2025 – present)
 
-- Collaborating with cross-functional teams to deliver high-quality software solutions.
-- Developing multiple applications for different brands of POS devices.
-- Performing security and performance tests to identify and fix issues.
+- Built payment terminal software for a new POS product, from early prototyping through production rollout.
+- Developed native device integrations and the EMV payment flow.
+- Implemented secure terminal configuration and device-to-backend communication.
+- Built the POS frontend, and ran security and performance tests to find and fix issues.
 
-## My Recent Projects
+### CTO at [Happy Living](https://happyliving.lat) (2024 – present)
 
-### [Rebuscate](https://rebuscate.com/) (web/native)
+- Leading the React Native app for building management.
+- Migrated the backend from .NET to Go microservices and integrated an AI chatbot for reservations.
+- Running the whole platform on our own VPS: Docker, Traefik, domains, S3-compatible storage, backups and CI/CD.
+- Set up Novu, Resend and Expo push notifications, with PostHog for product analytics.
 
-- Built a price comparison platform for local supermarkets, pharmacies, and other stores.
-- Developed a product relation algorithm to improve search accuracy.
-- Created the mobile app in React Native and the website in Next.js.
-- Implemented the entire backend in PostgreSQL with edge functions.
-- Added observability with PostHog.
-- Built a scraper using Python and Go.
+### Co-founder & CTO at [Rebuscate](https://rebuscate.com) (2022 – present)
+
+- Built a price comparison platform for supermarkets and pharmacies: React Native app, Next.js site, PostgreSQL backend.
+- Designed the product-matching algorithm and the Python/Go scrapers and crawlers that feed it.
+- Built AI search on a self-hosted Qdrant database with our own embedding service, covering image, text and combined queries.
 - Collaborating with [Abel Franco](https://afranval.github.io).
 
-### [Happyliving](https://happyliving.lat)
+### Full-Stack Developer at [Impossible Games](https://impossiblegames.fun) (2023 – present)
 
-- Developing a React Native mobile app with new features for building management.
-- Migrated the backend from .NET to Go for better performance.
-- Integrated an AI chatbot for reservations and user acquisition.
-- Deployed all services on a VPS using Docker and Traefik.
-- Set up CI/CD pipelines for automated deployments.
+- Building Car'd, a card-based puzzle game with cars moving on grids.
+- Building the studio's tools and services.
 
-### [Vert.run](https://vert.run)
+## Previous Work
+
+### [Vert.run](https://vert.run) (2024 – 2025)
 
 - Migrated the entire mobile platform to React Native.
-- Refactored the website to reduce technical debt.
-- Implemented backend services and AI features using AWS (DynamoDB, Cognito, Lambda, Bedrock).
-- Participated in code reviews, testing, and debugging to ensure quality.
+- Refactored the website and built AI features on AWS (Lambda, DynamoDB, Cognito, Bedrock).
 - Set up CI/CD pipelines for automated deployments.
 
-### Tacumbu Finder Native [Tacumbu-Finder Native](https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/)
+## Side Projects
+
+### [Tacumbu Finder Native](https://www.linkedin.com/feed/update/urn:li:activity:7229595344601309184/)
 
 - Native version of Tacumbu-Finder.
 - Fetches and displays scammer/spammer reports in a mobile-friendly interface.
@@ -85,11 +95,6 @@
 	- Admin tools for user management and analytics.
 - Tech Stack: Expo / React Native, React + Shadcn, Supabase (real-time events).
 
-### [Car'd](#)
-
--- Card-based puzzle game with cars moving on grids.
-- Development by [Impossible Games](https://impossiblegames.fun).
-  
 ### Ettios Game
 
 - Rebuilt from scratch in just 2 months.
@@ -101,6 +106,7 @@
 
 <div align="center">
 
+![Arch Linux](https://img.shields.io/badge/Omarchy%20(Arch)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -124,6 +130,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -155,12 +164,15 @@
 
 <div align="center">
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 </div>
@@ -171,6 +183,9 @@
 
 <div align="center">
 
+<a href="https://galvarey.is-a.dev" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-0EA5E9.svg?&style=for-the-badge&logo=astro&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/GalvareyPoco" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -190,7 +205,21 @@
 
 ## Stats
 
-<img src="https://github-readme-stats-phi-cyan-62.vercel.app/api?username=GalvareyPoco&show_icons=true&count_private=true&count_private=true&theme=dark&combine_remote_and_public=true&hide=stars" style="width: 100%" align="center"/>
+<img src="https://github-readme-stats-phi-cyan-62.vercel.app/api?username=GalvareyPoco&show_icons=true&count_private=true&theme=dark&combine_remote_and_public=true&hide=stars" style="width: 100%" align="center"/>
+<br/>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=GalvareyPoco&theme=dark&hide_border=true" alt="Contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GalvareyPoco&theme=github_dark" alt="Contribution activity" style="width: 100%" />
+</div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GalvareyPoco/GalvareyPoco/output/github-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/GalvareyPoco/GalvareyPoco/output/github-snake.svg" />
+</picture>
+
 <br/>
 
 ## Now Playing
