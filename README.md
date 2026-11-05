@@ -5,7 +5,7 @@
 ### <div align="center">I'm Galvarey, a full-stack developer 👨‍💻 working remotely from Asunción, Paraguay</div>
 
 <div align="center">
-<a href="https://galvarey.is-a.dev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+at+ITTI;CTO+at+Happy+Living;Co-founder+%26+CTO+of+Rebuscate;Game+Developer+at+Impossible+Games;Maker+%26+tinkerer" alt="Typing roles" /></a>
+<a href="https://galvarey.is-a.dev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+at+ITTI;CTO+at+Happy+Living;Co-founder+%26+CTO+of+Rebuscate;Game+Developer;Maker+%26+tinkerer" alt="Typing roles" /></a>
 
 🌐 **Portfolio: [galvarey.is-a.dev](https://galvarey.is-a.dev)**
 </div>
@@ -65,7 +65,12 @@
 
 - Migrated the entire mobile platform to React Native.
 - Refactored the website and built AI features on AWS (Lambda, DynamoDB, Cognito, Bedrock).
-- Set up CI/CD pipelines for automated deployments.
+
+### Software & Game Developer at Posibillian Tech (2022 – 2023)
+
+- Designed and built games, from game design and mechanics through to release.
+- Developed AI features for the studio's products.
+- Managed the servers and databases behind them.
 
 ## Side Projects
 
