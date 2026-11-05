@@ -5,7 +5,7 @@
 ### <div align="center">I'm Galvarey, a full-stack developer 👨‍💻 working remotely from Asunción, Paraguay</div>
 
 <div align="center">
-<a href="https://galvarey.is-a.dev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+at+ITTI;CTO+at+Happy+Living;Co-founder+%26+CTO+of+Rebuscate;Game+Developer;Maker+%26+tinkerer" alt="Typing roles" /></a>
+<a href="https://galvarey.is-a.dev"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Sr.+Software+Engineer+at+ITTI;CTO+at+Happy+Living;Co-founder+%26+CTO+of+Rebuscate;Game+Developer;Maker+%26+tinkerer" alt="Typing roles" /></a>
 
 🌐 **Portfolio: [galvarey.is-a.dev](https://galvarey.is-a.dev)**
 </div>
@@ -33,7 +33,7 @@
 
 ## Currently Working
 
-### Full-Stack Developer at [ITTI](https://www.itti.digital) (2025 – present)
+### Sr. Software Engineer at [ITTI](https://www.itti.digital) (2025 – present)
 
 - Built payment terminal software for a new POS product, from early prototyping through production rollout.
 - Developed native device integrations and the EMV payment flow.
